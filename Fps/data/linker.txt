@@ -1,0 +1,8 @@
+Alexa488 L linker	D	20	4.5	3.5	5	4.5	1.5
+Alexa488 I linker	D	15	4.5	3.5	5	4.5	1.5
+Alexa488 Sd linker	D	11	4.5	3.5	5	4.5	1.5
+Alexa488 St linker	D	11	4.5	3.5	5	4.5	1.5
+Cy5 L linker	A	22	4.5	3.5	11	3	1.5
+Cy5 I linker	A	17	4.5	3.5	11	3	1.5
+Cy5 Sd linker	A	14	4.5	3.5	11	3	1.5
+Cy5 St linker	A	16	4.5	3.5	11	3	1.5

@@ -1,0 +1,377 @@
+# GPFileToolsTest v. 1.0.0.0
+# Thursday, April 28, 2011 1:22:33 PM
+
+# General
+Text = Form1
+BackColor = Color [ActiveBorder]
+ Empty = Color [Empty]
+Width = 546
+ MaxValue = 2147483647
+ MinValue = -2147483648
+AutoSize = False
+ TrueString = True
+ FalseString = False
+Height = 454
+ MaxValue = 2147483647
+ MinValue = -2147483648
+AutoSizeMode = GrowOnly
+ value__ = 1
+ GrowAndShrink = GrowAndShrink
+ GrowOnly = GrowOnly
+
+# Parameters
+numericUpDown1 = 10
+ Zero = 0
+ One = 1
+ MinusOne = -1
+ MaxValue = 79228162514264337593543950335
+ MinValue = -79228162514264337593543950335
+textBox1 = Privet
+Value = 10
+ Zero = 0
+ One = 1
+ MinusOne = -1
+ MaxValue = 79228162514264337593543950335
+ MinValue = -79228162514264337593543950335
+
+# SpreadsheetWriter
+Append = False
+ TrueString = True
+ FalseString = False
+Transpose = False
+ TrueString = True
+ FalseString = False
+Format = G
+Delimeters = System.Char[]
+ 	  
+ShowProgress = True
+ TrueString = True
+ FalseString = False
+Extension = txt
+FileFilter = All files (*.*)|*.*|Text files (*.txt, *.dat)|*.txt;*.dat
+OpenTitle = Open File:
+SaveTitle = Save File:
+DirTitle = Select a Directory:
+SelectTitle = Select Files:
+OverwritePrompt = True
+ TrueString = True
+ FalseString = False
+
+# Button2
+AutoSizeMode = GrowOnly
+ value__ = 1
+ GrowAndShrink = GrowAndShrink
+ GrowOnly = GrowOnly
+DialogResult = None
+ value__ = 0
+ None = None
+ OK = OK
+ Cancel = Cancel
+ Abort = Abort
+ Retry = Retry
+ Ignore = Ignore
+ Yes = Yes
+ No = No
+AutoEllipsis = False
+ TrueString = True
+ FalseString = False
+AutoSize = False
+ TrueString = True
+ FalseString = False
+BackColor = Color [ActiveBorder]
+ Empty = Color [Empty]
+FlatStyle = Standard
+ value__ = 2
+ Flat = Flat
+ Popup = Popup
+ Standard = Standard
+ System = System
+Image = (null)
+ImageAlign = MiddleCenter
+ value__ = 32
+ TopLeft = TopLeft
+ TopCenter = TopCenter
+ TopRight = TopRight
+ MiddleLeft = MiddleLeft
+ MiddleCenter = MiddleCenter
+ MiddleRight = MiddleRight
+ BottomLeft = BottomLeft
+ BottomCenter = BottomCenter
+ BottomRight = BottomRight
+ImageIndex = -1
+ MaxValue = 2147483647
+ MinValue = -2147483648
+ImageKey = 
+ImeMode = Disable
+ value__ = 3
+ Inherit = Inherit
+ NoControl = NoControl
+ On = On
+ Off = Off
+ Disable = Disable
+ Hiragana = Hiragana
+ Katakana = Katakana
+ KatakanaHalf = KatakanaHalf
+ AlphaFull = AlphaFull
+ Alpha = Alpha
+ HangulFull = HangulFull
+ Hangul = Hangul
+ Close = Close
+ OnHalf = OnHalf
+Text = Close
+TextAlign = MiddleCenter
+ value__ = 32
+ TopLeft = TopLeft
+ TopCenter = TopCenter
+ TopRight = TopRight
+ MiddleLeft = MiddleLeft
+ MiddleCenter = MiddleCenter
+ MiddleRight = MiddleRight
+ BottomLeft = BottomLeft
+ BottomCenter = BottomCenter
+ BottomRight = BottomRight
+TextImageRelation = Overlay
+ value__ = 0
+ Overlay = Overlay
+ ImageBeforeText = ImageBeforeText
+ TextBeforeImage = TextBeforeImage
+ ImageAboveText = ImageAboveText
+ TextAboveImage = TextAboveImage
+UseMnemonic = True
+ TrueString = True
+ FalseString = False
+UseCompatibleTextRendering = False
+ TrueString = True
+ FalseString = False
+UseVisualStyleBackColor = True
+ TrueString = True
+ FalseString = False
+AccessibleDefaultActionDescription = (null)
+AccessibleDescription = (null)
+AccessibleName = (null)
+AccessibleRole = Default
+ value__ = -1
+ Default = Default
+ None = None
+ TitleBar = TitleBar
+ MenuBar = MenuBar
+ ScrollBar = ScrollBar
+ Grip = Grip
+ Sound = Sound
+ Cursor = Cursor
+ Caret = Caret
+ Alert = Alert
+ Window = Window
+ Client = Client
+ MenuPopup = MenuPopup
+ MenuItem = MenuItem
+ ToolTip = ToolTip
+ Application = Application
+ Document = Document
+ Pane = Pane
+ Chart = Chart
+ Dialog = Dialog
+ Border = Border
+ Grouping = Grouping
+ Separator = Separator
+ ToolBar = ToolBar
+ StatusBar = StatusBar
+ Table = Table
+ ColumnHeader = ColumnHeader
+ RowHeader = RowHeader
+ Column = Column
+ Row = Row
+ Cell = Cell
+ Link = Link
+ HelpBalloon = HelpBalloon
+ Character = Character
+ List = List
+ ListItem = ListItem
+ Outline = Outline
+ OutlineItem = OutlineItem
+ PageTab = PageTab
+ PropertyPage = PropertyPage
+ Indicator = Indicator
+ Graphic = Graphic
+ StaticText = StaticText
+ Text = Text
+ PushButton = PushButton
+ CheckButton = CheckButton
+ RadioButton = RadioButton
+ ComboBox = ComboBox
+ DropList = DropList
+ ProgressBar = ProgressBar
+ Dial = Dial
+ HotkeyField = HotkeyField
+ Slider = Slider
+ SpinButton = SpinButton
+ Diagram = Diagram
+ Animation = Animation
+ Equation = Equation
+ ButtonDropDown = ButtonDropDown
+ ButtonMenu = ButtonMenu
+ ButtonDropDownGrid = ButtonDropDownGrid
+ WhiteSpace = WhiteSpace
+ PageTabList = PageTabList
+ Clock = Clock
+ SplitButton = SplitButton
+ IpAddress = IpAddress
+ OutlineButton = OutlineButton
+AllowDrop = False
+ TrueString = True
+ FalseString = False
+Anchor = Top, Left
+ value__ = 5
+ Top = Top
+ Bottom = Bottom
+ Left = Left
+ Right = Right
+ None = None
+AutoScrollOffset = {X=0,Y=0}
+ Empty = {X=0,Y=0}
+BackgroundImage = (null)
+BackgroundImageLayout = Tile
+ value__ = 1
+ None = None
+ Tile = Tile
+ Center = Center
+ Stretch = Stretch
+ Zoom = Zoom
+Bottom = 234
+ MaxValue = 2147483647
+ MinValue = -2147483648
+Bounds = {X=442,Y=211,Width=75,Height=23}
+ Empty = {X=0,Y=0,Width=0,Height=0}
+CanFocus = True
+ TrueString = True
+ FalseString = False
+CanSelect = True
+ TrueString = True
+ FalseString = False
+Capture = False
+ TrueString = True
+ FalseString = False
+CausesValidation = True
+ TrueString = True
+ FalseString = False
+ClientRectangle = {X=0,Y=0,Width=75,Height=23}
+ Empty = {X=0,Y=0,Width=0,Height=0}
+ClientSize = {Width=75, Height=23}
+ Empty = {Width=0, Height=0}
+CompanyName = Microsoft Corporation
+ContainsFocus = False
+ TrueString = True
+ FalseString = False
+Created = True
+ TrueString = True
+ FalseString = False
+Cursor = [Cursor: Default]
+DisplayRectangle = {X=0,Y=0,Width=75,Height=23}
+ Empty = {X=0,Y=0,Width=0,Height=0}
+IsDisposed = False
+ TrueString = True
+ FalseString = False
+Disposing = False
+ TrueString = True
+ FalseString = False
+Dock = None
+ value__ = 0
+ None = None
+ Top = Top
+ Bottom = Bottom
+ Left = Left
+ Right = Right
+ Fill = Fill
+Enabled = True
+ TrueString = True
+ FalseString = False
+Focused = False
+ TrueString = True
+ FalseString = False
+Font = [Font: Name=Microsoft Sans Serif, Size=8.25, Units=3, GdiCharSet=0, GdiVerticalFont=False]
+ForeColor = Color [ControlText]
+ Empty = Color [Empty]
+Handle = 133948
+ Zero = 0
+HasChildren = False
+ TrueString = True
+ FalseString = False
+Height = 23
+ MaxValue = 2147483647
+ MinValue = -2147483648
+IsHandleCreated = True
+ TrueString = True
+ FalseString = False
+InvokeRequired = False
+ TrueString = True
+ FalseString = False
+IsAccessible = False
+ TrueString = True
+ FalseString = False
+IsMirrored = False
+ TrueString = True
+ FalseString = False
+Left = 442
+ MaxValue = 2147483647
+ MinValue = -2147483648
+Location = {X=442,Y=211}
+ Empty = {X=0,Y=0}
+Margin = {Left=3,Top=3,Right=3,Bottom=3}
+ Empty = {Left=0,Top=0,Right=0,Bottom=0}
+MaximumSize = {Width=0, Height=0}
+ Empty = {Width=0, Height=0}
+MinimumSize = {Width=0, Height=0}
+ Empty = {Width=0, Height=0}
+Name = button2
+ProductName = Microsoft® .NET Framework
+ProductVersion = 2.0.50727.4927
+RecreatingHandle = False
+ TrueString = True
+ FalseString = False
+Right = 517
+ MaxValue = 2147483647
+ MinValue = -2147483648
+RightToLeft = No
+ value__ = 0
+ No = No
+ Yes = Yes
+ Inherit = Inherit
+Size = {Width=75, Height=23}
+ Empty = {Width=0, Height=0}
+TabIndex = 2
+ MaxValue = 2147483647
+ MinValue = -2147483648
+TabStop = True
+ TrueString = True
+ FalseString = False
+Tag = (null)
+Top = 211
+ MaxValue = 2147483647
+ MinValue = -2147483648
+UseWaitCursor = False
+ TrueString = True
+ FalseString = False
+Visible = True
+ TrueString = True
+ FalseString = False
+Width = 75
+ MaxValue = 2147483647
+ MinValue = -2147483648
+PreferredSize = {Width=75, Height=23}
+ Empty = {Width=0, Height=0}
+Padding = {Left=0,Top=0,Right=0,Bottom=0}
+ Empty = {Left=0,Top=0,Right=0,Bottom=0}
+
+# Form1
+textBox1 = Privet
+button1 = OK
+button2 = Close
+numericUpDown1 = 10
+ Zero = 0
+ One = 1
+ MinusOne = -1
+ MaxValue = 79228162514264337593543950335
+ MinValue = -79228162514264337593543950335
+
+# Structure
+

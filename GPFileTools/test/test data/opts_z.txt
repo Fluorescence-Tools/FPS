@@ -1,0 +1,2 @@
+Number of Photons (green)	Number of Photons (red)
+0a0

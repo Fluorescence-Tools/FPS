@@ -1,0 +1,3 @@
+[submodule "mapack"]
+	path = mapack
+	url = https://github.com/Fluorescence-Tools/mapack
